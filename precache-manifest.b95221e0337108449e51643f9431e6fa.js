@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a8f2f50612d3903a4c0975fcac2f730",
+    "revision": "b8e750c657cddf43764feef7796d6daf",
     "url": "/mirallwork/index.html"
   },
   {
-    "revision": "63394e99aa5118cc0197",
+    "revision": "39c2cb271b673546bb0c",
     "url": "/mirallwork/static/css/main.eb931041.chunk.css"
   },
   {
-    "revision": "8ae97800497d061dcb03",
-    "url": "/mirallwork/static/js/2.88b2db2b.chunk.js"
+    "revision": "a29960ca6c2960cef6f9",
+    "url": "/mirallwork/static/js/2.36ef33f7.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/mirallwork/static/js/2.88b2db2b.chunk.js.LICENSE.txt"
+    "url": "/mirallwork/static/js/2.36ef33f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "63394e99aa5118cc0197",
-    "url": "/mirallwork/static/js/main.8fda8fd3.chunk.js"
+    "revision": "39c2cb271b673546bb0c",
+    "url": "/mirallwork/static/js/main.b7dbf56f.chunk.js"
   },
   {
     "revision": "394f144974cf27a68015",
