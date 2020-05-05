@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/mirallwork/static/css/main.eb931041.chunk.css",
+    "main.js": "/mirallwork/static/js/main.62e1098d.chunk.js",
+    "main.js.map": "/mirallwork/static/js/main.62e1098d.chunk.js.map",
+    "runtime-main.js": "/mirallwork/static/js/runtime-main.81639f83.js",
+    "runtime-main.js.map": "/mirallwork/static/js/runtime-main.81639f83.js.map",
+    "static/js/2.edf49313.chunk.js": "/mirallwork/static/js/2.edf49313.chunk.js",
+    "static/js/2.edf49313.chunk.js.map": "/mirallwork/static/js/2.edf49313.chunk.js.map",
+    "index.html": "/mirallwork/index.html",
+    "precache-manifest.d69178b14b8544cf9c599437da06172a.js": "/mirallwork/precache-manifest.d69178b14b8544cf9c599437da06172a.js",
+    "service-worker.js": "/mirallwork/service-worker.js",
+    "static/css/main.eb931041.chunk.css.map": "/mirallwork/static/css/main.eb931041.chunk.css.map",
+    "static/js/2.edf49313.chunk.js.LICENSE.txt": "/mirallwork/static/js/2.edf49313.chunk.js.LICENSE.txt",
+    "static/media/artIcon.svg": "/mirallwork/static/media/artIcon.b3f451aa.svg",
+    "static/media/bigCircle.svg": "/mirallwork/static/media/bigCircle.85876ba2.svg",
+    "static/media/bigTriangle.svg": "/mirallwork/static/media/bigTriangle.d5961ad1.svg",
+    "static/media/designIcon.svg": "/mirallwork/static/media/designIcon.fe43d6a5.svg",
+    "static/media/dotGrid.svg": "/mirallwork/static/media/dotGrid.594694da.svg",
+    "static/media/entrepreneurshipIcon.svg": "/mirallwork/static/media/entrepreneurshipIcon.92c9970b.svg",
+    "static/media/fitnessIcon.svg": "/mirallwork/static/media/fitnessIcon.acb1942b.svg",
+    "static/media/homeBackground.png": "/mirallwork/static/media/homeBackground.d9d6bee5.png",
+    "static/media/kitchenIcon.svg": "/mirallwork/static/media/kitchenIcon.39e976e0.svg",
+    "static/media/legalIcon.svg": "/mirallwork/static/media/legalIcon.73beeff8.svg",
+    "static/media/lenguageIcon.svg": "/mirallwork/static/media/lenguageIcon.5913ccf4.svg",
+    "static/media/marketingIcon.svg": "/mirallwork/static/media/marketingIcon.cffa7eca.svg",
+    "static/media/middleTriangle.svg": "/mirallwork/static/media/middleTriangle.eb8651c1.svg",
+    "static/media/serviceSale.png": "/mirallwork/static/media/serviceSale.09b6af36.png",
+    "static/media/triangle.svg": "/mirallwork/static/media/triangle.0b1939e3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81639f83.js",
+    "static/js/2.edf49313.chunk.js",
+    "static/css/main.eb931041.chunk.css",
+    "static/js/main.62e1098d.chunk.js"
+  ]
+}
